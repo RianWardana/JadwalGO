@@ -1,0 +1,21 @@
+Jadwal GO 1.0
+- Menampilkan data dari database
+- Update database
+
+Jadwal GO 2.0
+- Perubahan besar pada struktur database
+- Optimalisasi tampilan untuk mobile browser
+- Fitur cari jadwal sesuai kelas dan hari belajar
+
+Jadwal GO 2.1
+- Fitur tambah dan hapus kelas
+- Penyimpanan data jadwal yang dicari di form cari jadwal
+
+Jadwal GO 2.2
+- Optimalisasi tampilan
+- Pemangkasan request yang tidak perlu
+- Peningkatan kecepatan loading
+- Integrasi GitHub
+
+Jadwal GO 2.3
+- Untuk cari jadwal, hanya perlu isi kelas

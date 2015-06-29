@@ -1,0 +1,82 @@
+/****************************************
+Halo.
+Rian Wardana
+****************************************/
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+	margin-bottom: 150px;	/* Height-nya footer */
+}
+
+
+/***************************************/
+
+th {
+	vertical-align: middle !important;
+	text-align: center !important;
+}
+
+input {
+	text-transform: uppercase;
+	text-align: center;
+}
+
+.p1 {
+	border-bottom: 1px solid white !important;
+}
+
+.normal {
+	text-transform: none;
+	text-align: left;
+	margin: 10px;
+}
+
+/***************************************/
+
+@media (max-width: 768px) {
+	.brand-logo {
+		max-width: 100%;
+		max-height: 100%;
+		margin-top: -4px;
+		content:url(go.png);
+	}
+}
+
+@media (min-width: 768px) {
+	.brand-logo {
+		max-width: 150%;
+		max-height: 150%;
+		margin-top: -7px;
+		content: url(go.png);
+	}								
+}
+
+.navbar-toggle:hover { background-color: transparent !important; }
+.navbar-toggle:focus { background-color: transparent !important; }
+
+/***************************************/
+
+#jumbo-jadwal {
+	padding-top: 100px;
+	padding-bottom: 70px;
+	background-color: #FA9D00;
+	/*#F8A500 #FA9D00 #cf4823*/
+}
+
+.chori {
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 300px;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #f5f5f5;
+}
