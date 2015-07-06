@@ -3,12 +3,9 @@
 	<head>
 		<title>Jadwal GO Blok M</title>
 		<script>
-			$(document).ready(function(){
-				if ( (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) && ($(window).width() < 768) ) {
-					window.location.replace("http://jadwalgo.com/cari/")
-				}
-				
-			});
+			if ( (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) && (window.innerWidth < 768) ) {
+				window.location.replace("http://jadwalgo.com/cari/")
+			}
 		</script>
 		
 		<style>

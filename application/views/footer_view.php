@@ -9,5 +9,6 @@
 				</center>
 			</div>
 		</div>
+		<?php include('tpl_js.php'); ?>
 	</body>
 </html>
