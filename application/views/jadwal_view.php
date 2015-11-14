@@ -4,7 +4,8 @@
 		<title>Jadwal GO Blok M</title>
 		<script>
 			if ( (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) && (window.innerWidth < 768) ) {
-				window.location.replace("http://jadwalgo.com/cari/")
+				var url = window.location.href
+				window.location.replace(url + "cari")
 			}
 		</script>
 		
@@ -17,11 +18,6 @@
 	
 		
 		<div class="container" style="margin-top: 50px; margin-bottom: 50px;">
-			
-			<div id="alert-tst" class="alert alert-warning alert-dismissable">
-				<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				Booking TST dapat dilakukan di <a href="http://tst.jadwalgo.com/" target="blank">tst.jadwalgo.com</a>
-			</div>
 			
 			<div class="table-responsive">
 				<table class="table table-bordered" style="text-align: center;">
