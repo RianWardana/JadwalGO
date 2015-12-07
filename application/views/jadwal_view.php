@@ -20,7 +20,7 @@
 		<div class="container" style="margin-top: 50px; margin-bottom: 50px;">
 			
 			<div class="table-responsive">
-				<table class="table table-bordered" style="text-align: center;">
+				<table class="table table-bordered table-hover" style="text-align: center;">
 					
 					<thead>
 					<tr>
