@@ -12,5 +12,5 @@ untuk menyediakan jadwal yang akurat bagi para siswa bimbingan belajar.
 
 &nbsp;
 ##### UPDATE
-Per tanggal 30 Oktober 2015, JadwalGO dipindahkan ke alamat http://jadwal.bookingtst.com
+Per tanggal 30 Oktober 2015, JadwalGO dipindahkan ke alamat http://jadwal.bookingtst.com &nbsp;
 Per tanggal 01 November 2016, JadwalGo dipindahkan ke alamat http://jadwalgo.rianwardana.com
